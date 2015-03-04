@@ -1,0 +1,19 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+textarea {
+	width: 45%;
+	height: 200px;
+	float: right;
+	margin: 0;
+}
+
+textarea:first-child {
+	float: left;
+}
